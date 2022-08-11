@@ -1,6 +1,7 @@
 import numpy
 a=45
 b=65
-c=a+b 
+d=30
+c=a+b+d 
 Print c
 
